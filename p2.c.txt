@@ -1,0 +1,3 @@
+#include<stdio.h>
+int a=5,b=4;
+printf("sum is %d",a+b);
